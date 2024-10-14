@@ -1,0 +1,110 @@
+{
+    "historia": [
+        {
+            "descricao": "A história de <i><strong>Ori and the Blind Forest</strong></i> gira em torno de Ori, um espírito guardião, que é separado da Árvore de Luz durante uma tempestade. Ele é acolhido por Naru, uma criatura afetuosa que o cria como seu próprio filho. Após uma catástrofe que causa o colapso da floresta de Nibel e a morte de Naru, Ori parte em uma jornada para restaurar a luz. A floresta está corrompida pela escuridão trazida pela coruja Kuro, que busca vingança. Ao final, Kuro se sacrifica para salvar Ori, restaurando a ordem e salvando a floresta."
+        }
+    ],
+    
+"skills": [
+        {
+            "nome": "Chama Espiritual (Spirit Flame)",
+            "descricao": "A primeira habilidade obtida. Permite que Ori use Sein para atacar inimigos com projéteis de energia flamejante.",
+            "imagem": "img/SpiritFlame.png"
+        },
+        {
+            "nome": "Salto duplo (Double Jump)",
+            "descricao": "Permite que o protagonista efetue dois pulos de uma só vez.",
+            "imagem": "img/DoubleJump.png"
+        },
+        {
+            "nome": "Salto na parede (Wall Jump)",
+            "descricao": "Permite que o protagonista efetue dois saltos de uma parede para outra se predendo nela.",
+            "imagem": "img/WallJump.png"
+        },
+        {
+            "nome": "Escalar paredes (Climb)",
+            "descricao": "Permite que o protagonista escale as paredes.",
+            "imagem": "img/Climb.png"
+        },
+        {
+            "nome": "Salto carregado (Charg Jump)",
+            "descricao": "Permite que o protagonista salte ainda mais alto carregando sua força antes.",
+            "imagem": "img/ChargJump.png"
+        },
+        {
+            "nome": "Pisão (Stomp)",
+            "descricao": "Após pular no ar, Ori utiliza esse ataque poderoso para esmagar o chão, causando dano a inimigos e superfícies instáveis.",
+            "imagem": "img/Stomp.png"
+        },
+        {
+            "nome": "Planar (Kuro's Feather)",
+            "descricao": "Permite que o protagonista consiga planar pelos ares.",
+            "imagem": "img/KurosFeather.png"
+        },
+        {
+            "nome": "Corrida (Dash) - somente na <i>Edição Definitiva</i>",
+            "descricao": "Permite que o protagonista avance rapidamente, permitindo que ele evite ameaças em movimento ágil.",
+            "imagem": "img/DashDE.png"
+        },
+        {
+            "nome": "Explosão de Luz (Light Burst) - somente na <i>Edição Definitiva</i>",
+            "descricao": "Dá a Ori a habilidade de lançar uma bola de luz que explode pouco depois de tocar o chão.",
+            "imagem": "img/LightBurstDE.png"
+        }
+    ],
+    "personagens": [
+        {
+            "nome": "Ori",
+            "descricao": "O protagonista. Ori é um espírito guardião luminoso que se separa de sua árvore ancestral, partindo em uma jornada para restaurar a floresta de Nibel. Ori é o único personagem controlável no jogo, usando sua agilidade e habilidades especiais para superar obstáculos e enfrentar inimigo",
+            "imagem": "img/ori.png"
+        },
+        {
+            "nome": "Naru",
+            "descricao": "A figura materna de Ori, uma criatura bondosa que cuida dele e o acolhe após a separação",
+            "imagem": "img/naru.png"
+        },
+        {
+            "nome": "Sein",
+            "descricao": "Um pequeno orbe azul que acompanha Ori. É o espírito da Árvore da Luz e serve como guia e fonte de poderes.",
+            "imagem": "img/sein.jpg"
+        
+        },
+        {
+            "nome": "Kuro",
+            "descricao": "A principal antagonista, uma coruja gigante que busca destruir Ori e qualquer fonte de luz para proteger sua prole.",
+            "imagem": "img/kuro3.png"
+        
+        },
+        {
+            "nome": "Gumo",
+            "descricao": "Um espírito gentil que representa a bondade e a esperança. Ele se torna um aliado importante de Ori em sua jornada, ajudando-o com habilidades únicas e orientações para superar desafios. Gumo possui uma conexão profunda com a natureza e os habitantes da floresta de Nibel, buscando proteger o lar que tanto ama.",
+            "imagem": "img/gumo.jpg"
+        
+        }
+    ],
+    "cenarios": [
+        {
+            "nome": "Árvore Ginso (<i>Ginso Tree</i>)",
+            "imagem": "img/ginso_tree.png"
+        },
+        {
+            "nome": "Ruínas Desoladas (<i>Forlorn Ruins</i>)",
+            "imagem": "img/forlorn_ruins.png"
+        
+        },
+        {
+            "nome": "Passagem do Sofrimento (<i>Sorrow Pass</i>)",
+            "imagem": "img/sorrow_pass.png"
+        },
+        {
+            "nome": "Clareiras Afundadas (<i>Sunken Glades</i>)",
+            "imagem": "img/sunken_glades.png"
+        
+        },
+        {
+            "nome": "Floresta Nebulosa (<i>Misty Woods</i>)",
+            "imagem": "img/misty_woods.png"
+        
+        }
+    ]
+}
